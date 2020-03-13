@@ -1,6 +1,6 @@
-﻿Designing 16X7 FIFO Memory via behavioural modelling in Verilog using Xilinx VIVADO 2018.3 : 
+//Designing 16X7 FIFO Memory via behavioural modelling in Verilog using Xilinx VIVADO 2018.3 : 
 
-Main code :
+//Main code :
 
 module FIFO_mem(
     input clk,
@@ -96,7 +96,7 @@ module FIFO_mem(
                               
 endmodule
  
-Testbench Code 1 :
+//Testbench Code 1 :
 
 module test_FIFO(
 
@@ -160,7 +160,7 @@ module test_FIFO(
 
 endmodule
 
-Testbench Code 2 :
+//Testbench Code 2 :
 
 module test_FIFO02(
 
